@@ -52,7 +52,3 @@ Please note: This is only a **prototype** of the official product, which is curr
 ⚠ This project is a **prototype** intended for demonstration, study, and development purposes only.
 Commercial use, redistribution, or resale is **not permitted** without the express authorization of the author.
 
----
-
-Se for usar isso em um ambiente que **não suporta HTML dentro do Markdown** (como alguns editores simples), posso adaptar para outra forma. Deseja isso em PDF, Markdown puro ou algum outro formato?
-
